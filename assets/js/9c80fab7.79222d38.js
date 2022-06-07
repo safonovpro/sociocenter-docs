@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksociocenter_docs=self.webpackChunksociocenter_docs||[]).push([[3945],{6177:function(o){o.exports=JSON.parse('{"allTagsPath":"/sociocenter-docs/blog/tags","name":"hola","count":1,"permalink":"/sociocenter-docs/blog/tags/hola"}')}}]);
