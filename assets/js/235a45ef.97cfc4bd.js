@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksociocenter_docs=self.webpackChunksociocenter_docs||[]).push([[623],{3769:function(e){e.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-docs","id":"default"}}')}}]);

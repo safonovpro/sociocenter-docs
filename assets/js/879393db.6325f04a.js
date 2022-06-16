@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksociocenter_docs=self.webpackChunksociocenter_docs||[]).push([[8817],{4857:function(e){e.exports=JSON.parse('{"allTagsPath":"/dev.help.sociocenter.info/blog/tags","name":"docusaurus","count":4,"permalink":"/dev.help.sociocenter.info/blog/tags/docusaurus"}')}}]);

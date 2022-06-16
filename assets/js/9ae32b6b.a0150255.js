@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksociocenter_docs=self.webpackChunksociocenter_docs||[]).push([[5672],{8461:function(e){e.exports=JSON.parse('{"permalink":"/dev.help.sociocenter.info/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

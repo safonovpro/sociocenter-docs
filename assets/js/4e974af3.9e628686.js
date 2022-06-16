@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksociocenter_docs=self.webpackChunksociocenter_docs||[]).push([[6113],{4355:function(o){o.exports=JSON.parse('{"permalink":"/sociocenter-docs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
